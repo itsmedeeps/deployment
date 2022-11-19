@@ -1,0 +1,4 @@
+application
+-name: inventory
+ random-route: true
+ memory: 512
