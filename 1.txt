@@ -1,4 +1,0 @@
-application
--name: invertory
- random-route=true
- memory:512
